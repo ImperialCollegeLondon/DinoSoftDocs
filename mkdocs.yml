@@ -1,10 +1,10 @@
-site_name: My Project
-site_url: https://imperialcollegelondon.github.io/myproject
+site_name: DinoDiet Project Home
+site_url: https://imperialcollegelondon.github.io/DinoDietDocs
 theme:
   name: material
   palette:
     scheme: default # or slate for dark-mode
-    primary: custom
+    primary: amber
     accent: custom
 
   font:
