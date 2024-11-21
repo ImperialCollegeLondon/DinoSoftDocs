@@ -1,17 +1,15 @@
----
-hide:
-- toc
----
-## Installation Guide
+# Installing DinoSoft
 
-### System Requirements
+This guide walks you through installing DinoSoft for your needs.
+
+## System Requirements
 
 !!! abstract "Prerequisites"
     - Python 3.8 or higher
     - 4GB RAM minimum
     - CUDA-compatible GPU recommended
 
-### Installation Methods
+## Installation Methods
 
 === "pip (Recommended)"
 
@@ -42,7 +40,6 @@ hide:
     cd dinosoft
     pip install -e ".[dev]"
     ```
-
 
 ??? tip "Common Issues"
     - **ImportError**: Check Python version compatibility
